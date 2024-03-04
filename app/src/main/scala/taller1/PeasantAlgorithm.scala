@@ -6,6 +6,11 @@ import scala.annotation.tailrec
 
 class PeasantAlgorithm  {
   def multiply(a:Int, b:Int): Int = {
-  a*b
+    @tailrec
+    def multiplyAux(a:Int, b:Int, acc:Int):Int = {
+      //Cambiar
+      multiplyAux(a,b,acc)
+    }
+    0 //Cambiar
   }
 }
