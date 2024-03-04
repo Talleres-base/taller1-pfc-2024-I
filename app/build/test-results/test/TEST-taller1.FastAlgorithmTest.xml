@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="taller1.FastAlgorithmTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-04T22:10:27" hostname="desktop-linux" time="0.003">
+  <properties/>
+  <testcase name="FastAlgorithm has a multiply method" classname="taller1.FastAlgorithmTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
